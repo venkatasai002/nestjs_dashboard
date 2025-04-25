@@ -27,6 +27,6 @@
     "@types/node": "22.10.7",
     "@types/react": "19.0.7",
     "@types/react-dom": "19.0.3",
-    "@vercel/node": "^5.1.14"
+    "@vercel/node": "^3.0.19"
   }
 }
